@@ -1,1 +1,9 @@
 重学一下git,用了gitkraken
+重学一下git。
+下面列一下git所需要用到的操作指令
+git clone +git地址   :将远程仓库克隆到本地
+cd  +文件夹命  ：进入该文件夹
+git status :查看当前仓库情况
+ls  :查看当前文件夹内文件
+git add 文件名
+git commit
